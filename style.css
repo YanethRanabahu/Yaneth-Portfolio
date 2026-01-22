@@ -198,7 +198,7 @@
 
         /* About e Section */
         #about {
-            background-color: #191724;
+            background-color: #13111b;
         }
 
         .about-content {
@@ -239,6 +239,11 @@
 
         .skill a{
             text-decoration: none;
+            color: #C9C9E2;
+        }
+
+        .about-text ul{
+            font-size: 1.1rem;
             color: #C9C9E2;
         }
 
